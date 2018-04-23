@@ -5,3 +5,4 @@ Repo for holding my implementations of various RL problems.
 	 - Numpy
 	 - Keras
 	 - PyTorch
+ - Policy Gradient with CartPole - solution to the CartPole.v1 environment in PyTorch
